@@ -1,0 +1,38 @@
+{
+  "source": "DETERMINISTIC_SYNTHETIC_ONLY",
+  "seed": 17,
+  "depth_updates": 600,
+  "sampled_buy_orders": 216,
+  "quantity_units": 2,
+  "assumed_taker_fee_bps": 5,
+  "delay_results": [
+    {
+      "delay_ms": 0,
+      "observations": 54,
+      "mean_execution_cost_bps": 6.2392,
+      "median_execution_cost_bps": 6.24026,
+      "mean_post_fill_markout_bps": 1.4542
+    },
+    {
+      "delay_ms": 20,
+      "observations": 54,
+      "mean_execution_cost_bps": 6.28186,
+      "median_execution_cost_bps": 6.33846,
+      "mean_post_fill_markout_bps": 1.50399
+    },
+    {
+      "delay_ms": 100,
+      "observations": 54,
+      "mean_execution_cost_bps": 7.57544,
+      "median_execution_cost_bps": 8.10789,
+      "mean_post_fill_markout_bps": 1.40866
+    },
+    {
+      "delay_ms": 500,
+      "observations": 54,
+      "mean_execution_cost_bps": 12.49767,
+      "median_execution_cost_bps": 13.72535,
+      "mean_post_fill_markout_bps": 0.83713
+    }
+  ]
+}

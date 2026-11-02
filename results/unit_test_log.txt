@@ -1,0 +1,29 @@
+test_buy_vwap (test_orderbook.TestOrderBook.test_buy_vwap) ... ok
+test_clone_independent (test_orderbook.TestOrderBook.test_clone_independent) ... ok
+test_crossed_snapshot (test_orderbook.TestOrderBook.test_crossed_snapshot) ... ok
+test_crossed_update_atomic (test_orderbook.TestOrderBook.test_crossed_update_atomic) ... ok
+test_feed_has_synthetic_label (test_orderbook.TestOrderBook.test_feed_has_synthetic_label) ... ok
+test_feed_replay (test_orderbook.TestOrderBook.test_feed_replay) ... ok
+test_gap_rejected (test_orderbook.TestOrderBook.test_gap_rejected) ... ok
+test_generate_deterministic (test_orderbook.TestOrderBook.test_generate_deterministic) ... ok
+test_imbalance (test_orderbook.TestOrderBook.test_imbalance) ... ok
+test_invalid_side (test_orderbook.TestOrderBook.test_invalid_side) ... ok
+test_invalid_updates (test_orderbook.TestOrderBook.test_invalid_updates) ... ok
+test_latency_zero_identity (test_orderbook.TestOrderBook.test_latency_zero_identity) ... ok
+test_liquidity (test_orderbook.TestOrderBook.test_liquidity) ... ok
+test_mid (test_orderbook.TestOrderBook.test_mid) ... ok
+test_negative_qty_rejected (test_orderbook.TestOrderBook.test_negative_qty_rejected) ... ok
+test_nonpositive_qty (test_orderbook.TestOrderBook.test_nonpositive_qty) ... ok
+test_overlap_accepted (test_orderbook.TestOrderBook.test_overlap_accepted) ... ok
+test_overlapping_price_spread (test_orderbook.TestOrderBook.test_overlapping_price_spread) ... ok
+test_requires_snapshot_after_gap (test_orderbook.TestOrderBook.test_requires_snapshot_after_gap) ... ok
+test_sell_vwap (test_orderbook.TestOrderBook.test_sell_vwap) ... ok
+test_spread (test_orderbook.TestOrderBook.test_spread) ... ok
+test_stale_duplicate (test_orderbook.TestOrderBook.test_stale_duplicate) ... ok
+test_time_not_reversed (test_orderbook.TestOrderBook.test_time_not_reversed) ... ok
+test_update (test_orderbook.TestOrderBook.test_update) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.006s
+
+OK
